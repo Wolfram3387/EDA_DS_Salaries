@@ -1,2 +1,31 @@
 # EDA_DS_Salaries
-Exploratory data analysis of salaries in the field of Data Science. Various types of graphs and frameworks.
+Exploratory data analysis of salaries in Data Science. Various types of graphs and frameworks.
+<img width="1518" height="519" alt="Снимок экрана 2026-02-05 в 15 07 10" src="https://github.com/user-attachments/assets/af6ba128-6951-450c-9a89-b28e1b7f13ec" />
+<img width="1518" height="519" alt="Снимок экрана 2026-02-05 в 15 06 55" src="https://github.com/user-attachments/assets/4683e447-9e71-47e8-b9df-57db17666031" />
+<img width="1518" height="486" alt="Снимок экрана 2026-02-05 в 15 06 42" src="https://github.com/user-attachments/assets/7c43b093-53ed-4404-a5e6-67acfc398faa" />
+<img width="1518" height="486" alt="Снимок экрана 2026-02-05 в 15 06 21" src="https://github.com/user-attachments/assets/c209f906-9789-43b0-908e-fb5dd09f6377" />
+<img width="1518" height="486" alt="Снимок экрана 2026-02-05 в 15 05 03" src="https://github.com/user-attachments/assets/e9c48c12-fb2e-457a-b250-0e6ceb0ad28c" />
+<img width="1507" height="486" alt="Снимок экрана 2026-02-05 в 15 04 49" src="https://github.com/user-attachments/assets/eb60154b-be23-4983-af22-e10945f1c38a" />
+<img width="1507" height="486" alt="Снимок экрана 2026-02-05 в 15 04 41" src="https://github.com/user-attachments/assets/dc0bb481-40a2-4495-8b8d-cbd929894dae" />
+<img width="1507" height="486" alt="Снимок экрана 2026-02-05 в 15 04 20" src="https://github.com/user-attachments/assets/39e182bb-2587-423a-90cc-b7f66c4dc36f" />
+<img width="1507" height="486" alt="Снимок экрана 2026-02-05 в 15 03 54" src="https://github.com/user-attachments/assets/aa0daf8a-e246-4b4f-904e-2c3b273059f4" />
+<img width="1507" height="486" alt="Снимок экрана 2026-02-05 в 15 03 39" src="https://github.com/user-attachments/assets/5eab1ab1-45ab-4064-86f9-ef24dc848df2" />
+<img width="1507" height="486" alt="Снимок экрана 2026-02-05 в 15 03 35" src="https://github.com/user-attachments/assets/b3f3664a-a1a9-45b7-a483-c19117f075f7" />
+<img width="1507" height="486" alt="Снимок экрана 2026-02-05 в 15 03 18" src="https://github.com/user-attachments/assets/f0448662-2d0f-44a6-a7c2-95dbf0ca06f6" />
+<img width="1507" height="486" alt="Снимок экрана 2026-02-05 в 15 02 56" src="https://github.com/user-attachments/assets/973b8335-4d6b-43fb-9b93-f990f6457266" />
+<img width="1507" height="486" alt="Снимок экрана 2026-02-05 в 15 02 46" src="https://github.com/user-attachments/assets/07949a46-3043-42c0-bee6-a3d8af994906" />
+<img width="1507" height="486" alt="Снимок экрана 2026-02-05 в 15 01 56" src="https://github.com/user-attachments/assets/bf245795-ed52-4060-aadb-d836c6f122ef" />
+<img width="1100" height="486" alt="Снимок экрана 2026-02-05 в 15 01 18" src="https://github.com/user-attachments/assets/e84c68e3-3f9c-44e5-a4a0-62759a9348b8" />
+<img width="1523" height="486" alt="Снимок экрана 2026-02-05 в 15 00 45" src="https://github.com/user-attachments/assets/265d97f0-8340-479a-8038-c8a6c47b3754" />
+<img width="1392" height="486" alt="Снимок экрана 2026-02-05 в 15 00 30" src="https://github.com/user-attachments/assets/f02ac3aa-50a5-4e99-8305-a36a1cd4c922" />
+<img width="1525" height="486" alt="Снимок экрана 2026-02-05 в 15 00 16" src="https://github.com/user-attachments/assets/38096e42-06cf-4298-b91b-bf10ffc68b9b" />
+<img width="1525" height="486" alt="Снимок экрана 2026-02-05 в 14 59 56" src="https://github.com/user-attachments/assets/5b315141-14c4-4490-a75d-f7e4498c748c" />
+<img width="1525" height="486" alt="Снимок экрана 2026-02-05 в 14 59 49" src="https://github.com/user-attachments/assets/3e774369-ea06-415c-88df-c46daca89b6a" />
+<img width="1525" height="486" alt="Снимок экрана 2026-02-05 в 14 59 38" src="https://github.com/user-attachments/assets/218266d2-a268-4aed-9bd0-cd93081837c9" />
+<img width="1525" height="486" alt="Снимок экрана 2026-02-05 в 14 59 31" src="https://github.com/user-attachments/assets/1b30f976-04a7-43c0-a14e-6d5a5aae0801" />
+<img width="1525" height="486" alt="Снимок экрана 2026-02-05 в 14 59 18" src="https://github.com/user-attachments/assets/33538763-7cc6-48c5-b2dd-13b51ab8e8a7" />
+<img width="1525" height="486" alt="Снимок экрана 2026-02-05 в 14 59 11" src="https://github.com/user-attachments/assets/e6ca8fde-75d8-4f96-9d42-14356539046c" />
+<img width="1525" height="486" alt="Снимок экрана 2026-02-05 в 14 58 40" src="https://github.com/user-attachments/assets/878cb537-26cc-4a7c-b9e2-4a3ad39a204f" />
+<img width="1525" height="787" alt="Снимок экрана 2026-02-05 в 14 57 51" src="https://github.com/user-attachments/assets/707048bc-7d22-4a95-bdde-0f98e3a45135" />
+<img width="1525" height="511" alt="Снимок экрана 2026-02-05 в 14 57 28" src="https://github.com/user-attachments/assets/149a30d9-268e-463d-ade9-40f48d6521d2" />
+<img width="1425" height="460" alt="Снимок экрана 2026-02-05 в 14 57 06" src="https://github.com/user-attachments/assets/0c30c690-057b-4f06-8558-7b5c448458de" />
